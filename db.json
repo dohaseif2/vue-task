@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "100",
+      "name": "Ahmed",
+      "city": "alex"
+    },
+    {
+      "id": "200",
+      "name": "ali",
+      "city": "alex"
+    },
+    {
+      "id": "300",
+      "name": "amir",
+      "city": "portsaid"
+    },
+    {
+      "id": "400",
+      "name": "eslam",
+      "city": "cairo"
+    },
+    {
+      "id": "500",
+      "name": "karim",
+      "city": "alex"
+    },
+    {
+      "id": "600",
+      "name": "ahmed",
+      "city": "cairo"
+    },
+    {
+      "id": "1100",
+      "name": "kk",
+      "city": "mm"
+    },
+    {
+      "id": "1200",
+      "name": "Ahmed",
+      "city": "alex"
+    }
+  ]
+}
